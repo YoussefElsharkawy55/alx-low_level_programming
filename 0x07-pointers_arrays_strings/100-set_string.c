@@ -6,5 +6,7 @@
  */
 void set_string(char **s, char *to)
 {
+	// s is for keda
+	// to is for kedabardo
 	*s = to;
 }
